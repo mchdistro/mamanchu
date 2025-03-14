@@ -431,6 +431,17 @@
               }
             }
           ]
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 65,
+            "url": "https://github.com/mchdistro/mamanchu/raw/main/servers/mamanchu-1.20.1/files/servers.dat",
+            "MD5": "7a682f393f90e84124bd36581a57a2aa",
+            "path": "servers.dat"
+          }
         }
       ]
     }
