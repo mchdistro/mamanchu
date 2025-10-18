@@ -13,7 +13,7 @@
       "description": "Minecraft 1.20.1 (Forge v47.4.0)",
       "icon": "https://github.com/mchdistro/mamanchu/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "mc.gotiger.dev:25569",
+      "address": "mc.gotiger.dev:20004",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -437,9 +437,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 65,
+            "size": 138,
             "url": "https://github.com/mchdistro/mamanchu/raw/main/servers/mamanchu-1.20.1/files/servers.dat",
-            "MD5": "7a682f393f90e84124bd36581a57a2aa",
+            "MD5": "66f1e7d17baa1501fde2f2c0c53ec362",
             "path": "servers.dat"
           }
         }
